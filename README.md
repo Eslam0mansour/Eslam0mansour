@@ -1,4 +1,4 @@
-### Hi there im Eslam mansour Mopile Application Developer 👋📱
+### Hi there I'm  Eslam mansour Mopile Application Developer 👋📱
 
 - 📚 I have a Bachelors in Computer Science from akhbar elyom academy 
 - 🔭 I’m currently Developing in ( Android  , Flutter )
