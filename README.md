@@ -6,9 +6,12 @@
 
 ![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=Eslam0mansour&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-![Kotlin](https://img.shields.io/badge/-kotlin-006a71?&logo=kotlin) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) ![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android) ![enter image description here](https://img.shields.io/badge/-gitflow-05a698?&logo=git);
- - ![enter image description here](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter) ![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart) ![enter image description here](https://img.shields.io/badge/-Swift-964b09?&logo=swift), android animations, game development, CI/CD, UI testing;
- - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python) with the Pyladies Study Group :heart:
+![Kotlin](https://img.shields.io/badge/-kotlin-006a71?&logo=kotlin)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) 
+![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) 
+![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android) ;
+ - ![enter image description here](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter)
+ -  ![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart) :heart:
 
 
 <h2><i>Follow me:</i></h2>
