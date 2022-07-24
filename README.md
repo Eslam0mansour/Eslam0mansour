@@ -11,8 +11,11 @@
 ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?&logo=kotlin)
 ![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android) 
 ![enter image description here](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter)
-![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart) :heart:
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart) 
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp">
+  <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
+</a>:heart:
+
 
 
 <h2><i>Follow me:</i></h2>
