@@ -31,6 +31,8 @@
   
 </div>
 <hr>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+
 
 <!--
 **Eslam0mansour/Eslam0mansour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
