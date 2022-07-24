@@ -1,4 +1,4 @@
-### Hi there im Eslam mansour Mopile application Developer 👋📱
+### Hi there im Eslam mansour Mopile Application Developer 👋📱
 
 - 🔭 I’m currently working on Mobile Application Developing ( Android  , Flutter )
 - 🌱 I’m currently learning software engineering
