@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Mobile Application Developing
 - 🌱 I’m currently learning software engineering
-- 📫 How to reach me: in whats up 01278534591
+- 📫 How to reach me in whats up: 01278534591
 
 
 <!--
