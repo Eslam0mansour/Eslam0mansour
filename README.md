@@ -1,10 +1,13 @@
 ### Hi there im Eslam mansour Mopile Application Developer 👋📱
 
+- 📚 I have a Bachelors in Computer Science from akhbar elyom academy 
 - 🔭 I’m currently Developing in ( Android  , Flutter )
 - 🌱 I’m currently learning software engineering
 - 📫 How to reach me in whats up: 01278534591
 
 ![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=Eslam0mansour&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+### 👨‍💻 Programming Languages and tools
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) 
 ![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) 
