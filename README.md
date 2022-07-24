@@ -9,9 +9,9 @@
 ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?&logo=kotlin)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) 
 ![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) 
-![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android) ;
- - ![enter image description here](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter)
- -  ![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart) :heart:
+![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android) 
+![enter image description here](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter)
+![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart) :heart:
 
 
 <h2><i>Follow me:</i></h2>
