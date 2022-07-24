@@ -1,6 +1,6 @@
 ### Hi there im Eslam mansour Mopile Application Developer 👋📱
 
-- 🔭 I’m currently working on Mobile Application Developing ( Android  , Flutter )
+- 🔭 I’m currently Developing in ( Android  , Flutter )
 - 🌱 I’m currently learning software engineering
 - 📫 How to reach me in whats up: 01278534591
 
