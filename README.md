@@ -18,7 +18,7 @@
 ![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart) 
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp">
   <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
-</a>:heart:
+</a>
 
 
 
