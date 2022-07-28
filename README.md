@@ -44,7 +44,8 @@
    
 Please feel free to clone projects and raise issues if you think something could be better.
 
-Happy Coding! 😊
+Happy Coding! 😊<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eslam0mansour&label=Profile%20views&color=0e75b6&style=flat" alt="Eslam0mansour" /> </p>
+
 
 
 <div align="center" width="50">
