@@ -9,24 +9,6 @@
 
 ![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=Eslam0mansour&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-
-### 👨‍💻 Programming Languages and tools
-
-
-![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) 
-![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) 
-![Kotlin](https://img.shields.io/badge/-kotlin-006a71?&logo=kotlin)
-![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android) 
-![enter image description here](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter)
-![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart)
-<a href="https://github.com/felangel/bloc"><img src="https://tinyurl.com/bloc-library" alt="Bloc Library"></a>
-</p>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp">
-  <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
-</a>
-
-
-
 <h2><i>Follow me:</i></h2>
 <div  align="center">
 
@@ -44,6 +26,23 @@
   
 </div>
 <hr>
+
+### 👨‍💻 Programming Languages and tools
+
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) 
+![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) 
+![Kotlin](https://img.shields.io/badge/-kotlin-006a71?&logo=kotlin)
+![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android) 
+![enter image description here](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter)
+![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart)
+<a href="https://github.com/felangel/bloc"><img src="https://tinyurl.com/bloc-library" alt="Bloc Library"></a>
+</p>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp">
+  <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
+</a>
+
+
    
 Please feel free to clone projects and raise issues if you think something could be better.
 
