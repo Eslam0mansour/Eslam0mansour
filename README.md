@@ -5,7 +5,7 @@
 - 📚 I have a Bachelors in Computer Science from akhbar elyom academy 
 - 🔭 I’m currently Developing in ( Android  , Flutter )
 - 🌱 I’m currently learning software engineering
-- 📫 How to reach me in whats up: 01278534591
+- 📫 How to reach me in whats up: https://wa.me/qr/BY7MD3COZIMSH1
 
 
 ![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=Eslam0mansour&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
