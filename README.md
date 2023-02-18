@@ -5,7 +5,7 @@
 - 📚 I have a Bachelors in Computer Science from akhbar elyom academy 
 - 🔭 I’m currently Developing in ( Android  , Flutter )
 - 🌱 I’m currently learning software engineering
-- 📫 How to reach me in whats up: [https://wa.me/qr/BY7MD3COZIMSH1](https://wa.me/966115104258?text=%D8%A3%D9%87%D9%84%D9%8A%D9%86%20%D8%B1%D8%BA%D8%AF%20%D8%A3%D9%86%D8%A7%20%D8%B2%D8%A7%D8%A6%D8%B1%20%D9%85%D8%AA%D8%AC%D8%B1%20%D8%B3%D9%88%D9%82%20%D9%86%D8%AA)
+- 📫 How to reach me in whats up: https://api.whatsapp.com/send/?phone=01278534591
 
 
 ![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=Eslam0mansour&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
