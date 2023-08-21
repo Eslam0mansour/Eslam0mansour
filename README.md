@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning software engineering
 - 📫 How to reach me in whats up: https://wa.me/+201278534591/?text=السلام+عليكم+ورحمة+الله+وبركاته
 
-![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=Eslam0mansour&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eslam0mansour&show_icons=true&theme=tokyonight)
 
 <h2><i>Follow me:</i></h2>
 <div  align="center">
