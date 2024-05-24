@@ -7,9 +7,17 @@
 - 🌱 I’m currently learning software engineering
 - 📫 How to reach me in whats up: https://wa.me/+201278534591/?text=السلام+عليكم+ورحمة+الله+وبركاته
 
-- 
- ![Anurag's GitHub stats](https://github-readme-stats-beta-jade-32.vercel.app)
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 <h2><i>Follow me:</i></h2>
 <div  align="center">
 
