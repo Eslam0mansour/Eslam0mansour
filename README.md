@@ -6,18 +6,11 @@
 - 🔭 I’m currently Developing in ( Android  , Flutter )
 - 🌱 I’m currently learning software engineering
 - 📫 How to reach me in whats up: https://wa.me/+201278534591/?text=السلام+عليكم+ورحمة+الله+وبركاته
-
-<picture>
-  <source
-    srcset="https://github-readme-stats-pwcb31all-eslam0mansours-projects.vercel.app/api?username=Eslam0mansour&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-pwcb31all-eslam0mansours-projects.vercel.app/api?username=Eslam0mansour&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-pwcb31all-eslam0mansours-projects.vercel.app/api?username=Eslam0mansour&show_icons=true" />
-</picture>
+  
+ 
+![Anurag's GitHub stats](https://github-readme-stats-beta-jade-32.vercel.app/api?username=Eslam0mansour&show_icons=true&bg_color=00000000)
+ 
+ 
 <h2><i>Follow me:</i></h2>
 <div  align="center">
 
