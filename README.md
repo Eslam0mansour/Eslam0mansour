@@ -8,11 +8,9 @@
 - 📫 How to reach me in whats up: https://wa.me/+201278534591/?text=السلام+عليكم+ورحمة+الله+وبركاته
   
  
-![Anurag's GitHub stats](https://github-readme-stats-beta-jade-32.vercel.app/api?username=Eslam0mansour&show_icons=true&bg_color=00000000)
+  
  
- 
-<h2><i>Follow me:</i></h2>
-<div  align="center">
+ <div  align="center">
 
   <a href="https://www.linkedin.com/in/eslam-mansour-b1592a1a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
@@ -24,6 +22,8 @@
   
 </div>
 <hr>
+
+Happy Coding! 😊<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eslam0mansour&label=Profile%20views&color=0e75b6&style=flat" alt="Eslam0mansour" /> </p>
 
 ### 👨‍💻 Programming Languages and tools
 
@@ -43,9 +43,6 @@
 
    
 Please feel free to clone projects and raise issues if you think something could be better.
-
-Happy Coding! 😊<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eslam0mansour&label=Profile%20views&color=0e75b6&style=flat" alt="Eslam0mansour" /> </p>
-
 
 
 <div align="center" width="50">
