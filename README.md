@@ -3,7 +3,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10LIv80AE7JqWS5oN7ks-5TDMUfvcJ5yM/view?usp=sharing]
 - 📚 I have a Bachelors in Computer Science from akhbar elyom academy 
-- 🔭 I’m currently Developing in ( Android  , Flutter )
+- 🔭 I’m currently Developing in ( Android  , IOS , Flutter )
 - 🌱 I’m currently learning software engineering
 - 📫 How to reach me in whats up: https://wa.me/+201278534591/?text=السلام+عليكم+ورحمة+الله+وبركاته
   
@@ -16,10 +16,6 @@
 
   <a href="https://www.linkedin.com/in/eslam-mansour-b1592a1a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
-  </a>
-  
-  <a href="https://www.facebook.com/profile.php?id=100004585305538" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
   </a>
 
    <a href="mailto:eslam55855@gmail.com" mailto="eslam55855@gmail.com" target="_blank">
